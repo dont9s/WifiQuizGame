@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "907799460621",
+    "project_id": "firebase-ice9"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907799460621:android:c2415598e0088a17",
+        "android_client_info": {
+          "package_name": "com.example.nikhil.ice9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfqxUM70VYDW2EdC7hxIvSqzAJyh2kiH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Ice9</string>
+    <string name="frag_button_text">Open</string>
+    <string name="hello">Hello</string>
+    <string name="my_fragment_tag">MyFragmentTag</string>
+    <string name="enable_p2p_button">OnP2P</string>
+    <string name="discover_peers_button">Discover</string>
+    <string name="p2p_off_warning">P2P Off</string>
+    <string name="discovery_initiated">Discovery Initiated</string>
+    <string name="still_discovering">Still Discovering</string>
+    <string name="discovery_failed">Discovery Failed</string>
+    <string name="no_devices_found">No Devices Found</string>
+    <string name="connect_failed">Connect failed. Retry.</string>
+    <string name="connected">Connected Succesfully</string>
+    <string name="test_text">Test Text</string>
+    <string name="connect_text">Connect</string>
+    <string name="group_owner_text">"Am I the Group Owner? "</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="group_owner_ip_text">Group Owner IP :- </string>
+    <string name="added_local_service">Added Local Service</string>
+    <string name="failed_aading_local_service">Failed to Add Local Service</string>
+    <string name="added_service_discovery_request">Added Service Discovery Request</string>
+    <string name="failed_adding_discovery_request">Failed to Add Service Discovery Request</string>
+    <string name="service_discovery_initiatetd">Service discovery initiated</string>
+    <string name="service_discovery_failed">Service discovery failed</string>
+    <string name="list_buddy_connected">Connected</string>
+    <string name="list_buddy_invited">Invited</string>
+    <string name="list_buddy_failed">Failed</string>
+    <string name="list_buddy_available">Available</string>
+    <string name="list_buddy_unavailable">UnAvailable</string>
+    <string name="list_buddy_unknown">Unknown</string>
+    <string name="succesfully_removed_service_request">Removed Service Request</string>
+    <string name="failed_removing_service_request">Failed Removing Service Request</string>
+    <string name="connecting_to_service">Connecting To Service</string>
+    <string name="failed_to_connect">Failed To Connect</string>
+</resources>
